@@ -87,3 +87,11 @@ PPLH IPB dalam menentukan jumlah hari, area serta perhitungan nilai kompensasi m
 <hr><center class="banner-covid"><a href="https://covid19.karawangkab.go.id" target="_blank"><img src="https://www.karawangkab.go.id/sites/default/files/SpandukCovid19.png" /></a></center> <br> <p class="rtejustify"> Halo wargi Karawang, untuk informasi lebih lengkap. Wargi bisa akses melalui web berikut :<br> <a href="https://covid19.karawangkab.go.id" target="_blank">covid19.karawangkab.go.id</a><br> <br> Data tersebut silakan digunakan wargi untuk proaktif agar saling mengingatkan untuk menjaga diri dan mengurangi interaksi sosial di zona merah dan hitam, tanpa reaksi sosial berlebihan.<br> <br> KITA HARUS TETAP TENANG, TINGKATKAN KEWASPADAAN, DAN SELALU TERAPKAN PROTOKOL KESEHATAN 3M:<br> - MENJAGA JARAK<br> - MENCUCI TANGAN<br> - MEMAKAI MASKER<br> </p>	
 <hr><strong>Follow Kominfo Official Media at</strong> <br> <i class="fa fa-facebook"></i> <a href="https://web.facebook.com/Diskominfokrwkab" target="_blank">Diskominfokrwkab</a><br> <i class="fa fa-instagram"></i> <a href="https://www.instagram.com/diskominfokrwkab/" target="_blank">@Diskominfokrwkab</a><br> <i class="fa fa-twitter"></i> <a href="https://twitter.com/Diskominfokrwkab" target="_blank">@Diskominfokrwkab</a><br> <i class="fa fa-globe"></i> <a href="https://www.karawangkab.go.id" target="_blank">www.karawangkab.go.id</a>, <a href="http://www.diskominfo.karawangkab.go.id" target="_blank">www.diskominfo.karawangkab.go.id</a>
 ```
+
+## Design Image Upload
+
+Untuk keperluan upload image, graphic editor / tools yang digunakan adalah [Affinity Designer](https://affinity.serif.com/en-gb/designer/)
+
+Untuk upload 1 gambar, gunakan template ini:
+
+Untuk upload > 1 gambar, gunakan template ini:
