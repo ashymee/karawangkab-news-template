@@ -8,7 +8,9 @@
 <style> .bordering {border: 1px solid #ccc; padding: 5px; border-radius: 10px; margin-bottom: 20px } i.fa {border: 1px solid #ccc; padding: 3px; color: #3f9ae8; height: auto; width: 20px; margin-bottom: 3px; border-radius: 3px; } .theme-default .nivoSlider {box-shadow: none !important} .popup { display: flex; align-items: center; justify-content: center; position: fixed; width: 100vw; height: 100vh; bottom: 0; right: 0; background-color: rgba(0, 0, 0, 0.8); z-index: 2; visibility: hidden; opacity: 0; overflow: hidden; transition: .64s ease-in-out; } </style>
 ```
 
-* diletakkan di setelah konten berita:
+* diletakkan setelah konten berita:
+
+
 
 ```php
 <hr>
@@ -22,7 +24,7 @@
 <hr><strong>Follow Kominfo Official Media at</strong> <br> <i class="fa fa-facebook"></i> <a href="https://web.facebook.com/Diskominfokrwkab" target="_blank">Diskominfokrwkab</a><br> <i class="fa fa-instagram"></i> <a href="https://www.instagram.com/diskominfokrwkab/" target="_blank">@Diskominfokrwkab</a><br> <i class="fa fa-twitter"></i> <a href="https://twitter.com/Diskominfokrwkab" target="_blank">@Diskominfokrwkab</a><br> <i class="fa fa-globe"></i> <a href="https://www.karawangkab.go.id" target="_blank">www.karawangkab.go.id</a>, <a href="http://www.diskominfo.karawangkab.go.id" target="_blank">www.diskominfo.karawangkab.go.id</a>
 ```
 
-> tag <img src="" style="width: 49%"> disesuaikan dengan jumlah image yang akan diupload. Width / lebar gambar cukup diubah menjadi 49% atau 99%. 49% untuk layout setengah laman, sedangkan 99% untuk layout full laman.
+> tag '<img src="" style="width: 49%">' disesuaikan dengan jumlah image yang akan diupload. Width / lebar gambar cukup diubah menjadi 49% atau 99%. 49% untuk layout setengah laman, sedangkan 99% untuk layout full laman.
 
 > src / source diisi link url sumber pengutipan gambar
 
@@ -38,7 +40,10 @@
 	</div>
 </center>
 ```
+
 - jika jumlah gambar = 3, dst. Maka, pengaturannya adalah 
+
+
 ```php
 <center>
 	<div class="bordering">
@@ -60,6 +65,7 @@
 ```
 
 ### Contoh
+
 ```php
 <style> .bordering {border: 1px solid #ccc; padding: 5px; border-radius: 10px; margin-bottom: 20px } i.fa {border: 1px solid #ccc; padding: 3px; color: #3f9ae8; height: auto; width: 20px; margin-bottom: 3px; border-radius: 3px; } .theme-default .nivoSlider {box-shadow: none !important} .popup { display: flex; align-items: center; justify-content: center; position: fixed; width: 100vw; height: 100vh; bottom: 0; right: 0; background-color: rgba(0, 0, 0, 0.8); z-index: 2; visibility: hidden; opacity: 0; overflow: hidden; transition: .64s ease-in-out; } </style>
 
