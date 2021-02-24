@@ -24,7 +24,7 @@
 <hr><strong>Follow Kominfo Official Media at</strong> <br> <i class="fa fa-facebook"></i> <a href="https://web.facebook.com/Diskominfokrwkab" target="_blank">Diskominfokrwkab</a><br> <i class="fa fa-instagram"></i> <a href="https://www.instagram.com/diskominfokrwkab/" target="_blank">@Diskominfokrwkab</a><br> <i class="fa fa-twitter"></i> <a href="https://twitter.com/Diskominfokrwkab" target="_blank">@Diskominfokrwkab</a><br> <i class="fa fa-globe"></i> <a href="https://www.karawangkab.go.id" target="_blank">www.karawangkab.go.id</a>, <a href="http://www.diskominfo.karawangkab.go.id" target="_blank">www.diskominfo.karawangkab.go.id</a>
 ```
 
-> tag '&gt;img src="" style="width: 49%"&lt;' disesuaikan dengan jumlah image yang akan diupload. Width / lebar gambar cukup diubah menjadi 49% atau 99%. 49% untuk layout setengah laman, sedangkan 99% untuk layout full laman.
+> tag '&lt;img src="" style="width: 49%"&gt;' disesuaikan dengan jumlah image yang akan diupload. Width / lebar gambar cukup diubah menjadi 49% atau 99%. 49% untuk layout setengah laman, sedangkan 99% untuk layout full laman.
 
 > src / source diisi link url sumber pengutipan gambar
 
