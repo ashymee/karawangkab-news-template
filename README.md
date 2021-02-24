@@ -98,4 +98,8 @@ Untuk keperluan upload image, graphic editor / tools yang digunakan adalah [Affi
 
 Untuk upload 1 gambar, gunakan template ini: [Master 1](https://github.com/ashymee/karawangkab-news-template/blob/main/assets/Master%201.afdesign)
 
+![Contoh Gambar 1](https://github.com/ashymee/karawangkab-news-template/blob/main/assets/c1.png)
+
 Untuk upload > 1 gambar, gunakan template ini: [Master 2](https://github.com/ashymee/karawangkab-news-template/blob/main/assets/Master%203.afdesign)
+
+![Contoh Gambar 2](https://github.com/ashymee/karawangkab-news-template/blob/main/assets/c3.png)
