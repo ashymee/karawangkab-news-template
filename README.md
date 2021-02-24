@@ -106,4 +106,4 @@ Untuk upload > 1 gambar, gunakan template ini: [Master 2](https://github.com/ash
 
 ## Cara Menggunakan Template (Embedding Image)
 
-![Contoh](./assets/cc.jpg)
+![Contoh](https://ashymee.github.io/karawangkab-news-template/assets/cc.jpg)
