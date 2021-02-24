@@ -16,7 +16,7 @@
 <hr>
 <center>
 	<div class="bordering">
-		<img src="" style="width: 49%">
+		<img src="" style="width: 49%" />
 	</div>
 </center>
 
@@ -24,7 +24,7 @@
 <hr><strong>Follow Kominfo Official Media at</strong> <br> <i class="fa fa-facebook"></i> <a href="https://web.facebook.com/Diskominfokrwkab" target="_blank">Diskominfokrwkab</a><br> <i class="fa fa-instagram"></i> <a href="https://www.instagram.com/diskominfokrwkab/" target="_blank">@Diskominfokrwkab</a><br> <i class="fa fa-twitter"></i> <a href="https://twitter.com/Diskominfokrwkab" target="_blank">@Diskominfokrwkab</a><br> <i class="fa fa-globe"></i> <a href="https://www.karawangkab.go.id" target="_blank">www.karawangkab.go.id</a>, <a href="http://www.diskominfo.karawangkab.go.id" target="_blank">www.diskominfo.karawangkab.go.id</a>
 ```
 
-> tag '&lt;img src="" style="width: 49%"&gt;' disesuaikan dengan jumlah image yang akan diupload. Width / lebar gambar cukup diubah menjadi 49% atau 99%. 49% untuk layout setengah laman, sedangkan 99% untuk layout full laman.
+> tag '&lt; img src="" style="width: 49%" /&gt;' disesuaikan dengan jumlah image yang akan diupload. Width / lebar gambar cukup diubah menjadi 49% atau 99%. 49% untuk layout setengah laman, sedangkan 99% untuk layout full laman.
 
 > src / source diisi link url sumber pengutipan gambar
 
@@ -36,7 +36,7 @@
 ```php
 <center>
 	<div class="bordering">
-		<img src="" style="width: 99%">
+		<img src="" style="width: 99%" />
 	</div>
 </center>
 ```
@@ -47,7 +47,7 @@
 ```php
 <center>
 	<div class="bordering">
-		<img src="" style="width: 99%">
+		<img src="" style="width: 99%" />
     <img src="" style="width: 49%">
     <img src="" style="width: 49%">
 	</div>
@@ -58,8 +58,8 @@
 ```php
 <center>
 	<div class="bordering">
-    <img src="" style="width: 49%">
-    <img src="" style="width: 49%">
+    <img src="" style="width: 49%" />
+    <img src="" style="width: 49%" />
 	</div>
 </center>
 ```
@@ -86,11 +86,11 @@ PPLH IPB dalam menentukan jumlah hari, area serta perhitungan nilai kompensasi m
 <hr>
 <center>
 	<div class="bordering">
-		<img src="https://scontent-cgk1-1.cdninstagram.com/v/t51.2885-15/e35/152476443_182067827047467_6339058443064689209_n.jpg?_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=ojojfd1bmpAAX8G6xxm&tp=1&oh=2fd2aa94f50f3c4be5a7ef6241a7d543&oe=605E8778" style="width: 99%">
-		<img src="https://scontent-cgk1-1.cdninstagram.com/v/t51.2885-15/e35/152662368_5071270742944366_1878520493734339486_n.jpg?_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_cat=110&_nc_ohc=7o_v545ypPsAX-6YW0B&tp=1&oh=a5bfb8ffd85af3c3a1e52340ca9feac0&oe=605F80F5" style="width: 49%">
-		<img src="https://scontent-cgk1-1.cdninstagram.com/v/t51.2885-15/e35/153107611_152671543338382_3697700762863043129_n.jpg?_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_cat=110&_nc_ohc=k5CtrxovELIAX8eDaS4&tp=1&oh=b2da94984e7aa4d35d8b876c317a0703&oe=605DB0AB" style="width: 49%">
-		<img src="https://scontent-cgk1-1.cdninstagram.com/v/t51.2885-15/e35/152397496_280729603468469_668652600429539739_n.jpg?_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=xgu4v2LaZNwAX_yEFCI&tp=1&oh=07a9a52d781c02ae0b940335ea3740b0&oe=60601B6F" style="width: 49%">
-		<img src="https://scontent-cgk1-1.cdninstagram.com/v/t51.2885-15/e35/152481598_441202917099748_622950447650737405_n.jpg?_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_cat=104&_nc_ohc=SxVLYY4mO9EAX-Xk03B&tp=1&oh=67ae80cb1df6f284dbd561fcd8d3502b&oe=605ED0A7" style="width: 49%">
+		<img src="https://scontent-cgk1-1.cdninstagram.com/v/t51.2885-15/e35/152476443_182067827047467_6339058443064689209_n.jpg?_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=ojojfd1bmpAAX8G6xxm&tp=1&oh=2fd2aa94f50f3c4be5a7ef6241a7d543&oe=605E8778" style="width: 99%" />
+		<img src="https://scontent-cgk1-1.cdninstagram.com/v/t51.2885-15/e35/152662368_5071270742944366_1878520493734339486_n.jpg?_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_cat=110&_nc_ohc=7o_v545ypPsAX-6YW0B&tp=1&oh=a5bfb8ffd85af3c3a1e52340ca9feac0&oe=605F80F5" style="width: 49%" />
+		<img src="https://scontent-cgk1-1.cdninstagram.com/v/t51.2885-15/e35/153107611_152671543338382_3697700762863043129_n.jpg?_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_cat=110&_nc_ohc=k5CtrxovELIAX8eDaS4&tp=1&oh=b2da94984e7aa4d35d8b876c317a0703&oe=605DB0AB" style="width: 49%" />
+		<img src="https://scontent-cgk1-1.cdninstagram.com/v/t51.2885-15/e35/152397496_280729603468469_668652600429539739_n.jpg?_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=xgu4v2LaZNwAX_yEFCI&tp=1&oh=07a9a52d781c02ae0b940335ea3740b0&oe=60601B6F" style="width: 49%" />
+		<img src="https://scontent-cgk1-1.cdninstagram.com/v/t51.2885-15/e35/152481598_441202917099748_622950447650737405_n.jpg?_nc_ht=scontent-cgk1-1.cdninstagram.com&_nc_cat=104&_nc_ohc=SxVLYY4mO9EAX-Xk03B&tp=1&oh=67ae80cb1df6f284dbd561fcd8d3502b&oe=605ED0A7" style="width: 49%" />
 	</div>
 </center>
 
