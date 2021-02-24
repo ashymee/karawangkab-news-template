@@ -92,6 +92,6 @@ PPLH IPB dalam menentukan jumlah hari, area serta perhitungan nilai kompensasi m
 
 Untuk keperluan upload image, graphic editor / tools yang digunakan adalah [Affinity Designer](https://affinity.serif.com/en-gb/designer/)
 
-Untuk upload 1 gambar, gunakan template ini:
+Untuk upload 1 gambar, gunakan template ini: [Master 1](https://github.com/ashymee/karawangkab-news-template/blob/main/assets/Master%201.afdesign)
 
-Untuk upload > 1 gambar, gunakan template ini:
+Untuk upload > 1 gambar, gunakan template ini: [Master 2] (https://github.com/ashymee/karawangkab-news-template/blob/main/assets/Master%203.afdesign)
