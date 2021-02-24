@@ -9,6 +9,7 @@
 ```
 
 * diletakkan di setelah konten berita:
+
 ```php
 <hr>
 <center>
@@ -26,7 +27,10 @@
 > src / source diisi link url sumber pengutipan gambar
 
 ### pengaturan width, jika jumlah gambar = ganjil
+
 - jika jumlah gambar yang akan diupload = 1, maka __width: 99%__.
+
+
 ```php
 <center>
 	<div class="bordering">
