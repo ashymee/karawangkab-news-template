@@ -88,7 +88,7 @@ PPLH IPB dalam menentukan jumlah hari, area serta perhitungan nilai kompensasi m
 <hr><strong>Follow Kominfo Official Media at</strong> <br> <i class="fa fa-facebook"></i> <a href="https://web.facebook.com/Diskominfokrwkab" target="_blank">Diskominfokrwkab</a><br> <i class="fa fa-instagram"></i> <a href="https://www.instagram.com/diskominfokrwkab/" target="_blank">@Diskominfokrwkab</a><br> <i class="fa fa-twitter"></i> <a href="https://twitter.com/Diskominfokrwkab" target="_blank">@Diskominfokrwkab</a><br> <i class="fa fa-globe"></i> <a href="https://www.karawangkab.go.id" target="_blank">www.karawangkab.go.id</a>, <a href="http://www.diskominfo.karawangkab.go.id" target="_blank">www.diskominfo.karawangkab.go.id</a>
 ```
 
-![Contoh Layout Gambar](https://github.com/ashymee/karawangkab-news-template/blob/main/assets/ss.png)
+![Contoh Layout Gambar](https://ashymee.github.io/karawangkab-news-template/assets/ss.png)
 
 > contoh di atas dapat dilihat pada [link ini](https://karawangkab.go.id/headline/rakoor-persiapan-pembayaran-kompensasi-3-profesi-yang-terdampak-tumpahan-minyak-mentah)
 
@@ -96,13 +96,13 @@ PPLH IPB dalam menentukan jumlah hari, area serta perhitungan nilai kompensasi m
 
 Untuk keperluan upload image, graphic editor / tools yang digunakan adalah [Affinity Designer](https://affinity.serif.com/en-gb/designer/)
 
-Untuk upload 1 gambar, gunakan template ini: [Master 1](https://github.com/ashymee/karawangkab-news-template/blob/main/assets/Master%201.afdesign)
+Untuk upload 1 gambar, gunakan template ini: [Master 1](https://ashymee.github.io/karawangkab-news-template/assets/Master%201.afdesign)
 
-![Contoh Gambar 1](https://github.com/ashymee/karawangkab-news-template/blob/main/assets/c1.png)
+![Contoh Gambar 1](https://ashymee.github.io/karawangkab-news-template/assets/c1.png)
 
-Untuk upload > 1 gambar, gunakan template ini: [Master 2](https://github.com/ashymee/karawangkab-news-template/blob/main/assets/Master%203.afdesign)
+Untuk upload > 1 gambar, gunakan template ini: [Master 2](https://ashymee.github.io/karawangkab-news-template/assets/Master%203.afdesign)
 
-![Contoh Gambar 2](https://github.com/ashymee/karawangkab-news-template/blob/main/assets/c3.png)
+![Contoh Gambar 2](https://ashymee.github.io/karawangkab-news-template/assets/c3.png)
 
 ## Cara Menggunakan Template (Embedding Image)
 
