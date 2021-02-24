@@ -4,12 +4,12 @@
 
 * diletakkan di atas konten berita:
 
-```html
+```php
 <style> .bordering {border: 1px solid #ccc; padding: 5px; border-radius: 10px; margin-bottom: 20px } i.fa {border: 1px solid #ccc; padding: 3px; color: #3f9ae8; height: auto; width: 20px; margin-bottom: 3px; border-radius: 3px; } .theme-default .nivoSlider {box-shadow: none !important} .popup { display: flex; align-items: center; justify-content: center; position: fixed; width: 100vw; height: 100vh; bottom: 0; right: 0; background-color: rgba(0, 0, 0, 0.8); z-index: 2; visibility: hidden; opacity: 0; overflow: hidden; transition: .64s ease-in-out; } </style>
 ```
 
 * diletakkan di setelah konten berita:
-```html
+```php
 <hr>
 <center>
 	<div class="bordering">
@@ -27,7 +27,7 @@
 
 ### pengaturan width, jika jumlah gambar = ganjil
 - jika jumlah gambar yang akan diupload = 1, maka __width: 99%__.
-```html
+```php
 <center>
 	<div class="bordering">
 		<img src="" style="width: 99%">
@@ -35,7 +35,7 @@
 </center>
 ```
 - jika jumlah gambar = 3, dst. Maka, pengaturannya adalah 
-```html
+```php
 <center>
 	<div class="bordering">
 		<img src="" style="width: 99%">
@@ -46,7 +46,7 @@
 ```
 
 ### pengaturan width, jika jumlah gambar = genap
-```html
+```php
 <center>
 	<div class="bordering">
     <img src="" style="width: 49%">
