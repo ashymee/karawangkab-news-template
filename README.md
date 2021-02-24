@@ -103,3 +103,7 @@ Untuk upload 1 gambar, gunakan template ini: [Master 1](https://github.com/ashym
 Untuk upload > 1 gambar, gunakan template ini: [Master 2](https://github.com/ashymee/karawangkab-news-template/blob/main/assets/Master%203.afdesign)
 
 ![Contoh Gambar 2](https://github.com/ashymee/karawangkab-news-template/blob/main/assets/c3.png)
+
+## Cara Menggunakan Template (Embedding Image)
+
+![Contoh](https://github.com/ashymee/karawangkab-news-template/blob/main/assets/cc.jpg)
