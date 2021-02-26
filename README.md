@@ -99,6 +99,8 @@ PPLH IPB dalam menentukan jumlah hari, area serta perhitungan nilai kompensasi m
 
 > contoh di atas dapat dilihat pada [link ini](https://karawangkab.go.id/headline/rakoor-persiapan-pembayaran-kompensasi-3-profesi-yang-terdampak-tumpahan-minyak-mentah)
 
+---
+
 ## Design Image Upload
 
 Untuk keperluan upload image, graphic editor / tools yang digunakan adalah [Affinity Designer](https://affinity.serif.com/en-gb/designer/)
